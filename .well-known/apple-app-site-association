@@ -1,0 +1,14 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "GG7767GLB9.com.garena.gmsdk.demo",
+			"components": [
+				{
+					"/": "/app/*"
+				}
+			],
+			"paths": [ "/app/*" ]
+		}]
+	}
+}
